@@ -26,6 +26,10 @@ management:
       exposure:
         include:
         - "*"
+    jmx:
+      exposure:
+        include:
+        - "*"
 
 application:
   security:
