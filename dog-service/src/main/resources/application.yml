@@ -6,7 +6,7 @@ spring:
   jpa:
     open-in-view: false
   jmx:
-    enabled: true
+    enabled: false
   mvc:
     problemdetails:
       enabled: true
